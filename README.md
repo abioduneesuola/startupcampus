@@ -4,4 +4,4 @@ As required, a YOLOv8 model was trained for weapon detection over 16 epochs with
 
 Google Drive link to project files:
 
-https://docs.google.com/document/d/1-ENdfAfOTyBy58QZUwm88bjRbjPKOBjiJKwncMtJQh4/edit?usp=sharing
+https://drive.google.com/drive/folders/1n6okQXaEKe28Mi2wh2n8e0Sgs8DUtXQn?usp=sharing
